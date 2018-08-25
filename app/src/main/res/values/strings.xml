@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">quizAPP</string>
+    <string name="the_world">The World</string>
+    <string name="start_the_quiz">Start the Quiz</string>
+    <string name="_1_which_one_of_the_following_countries_have_the_advantage_of_being_passed_by_the_equator">1. Which one of the following Countries have the advantage of being passed by the Equator?</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="usa">USA</string>
+    <string name="southAfrica">SouthAfriac</string>
+    <string name="_2_when_did_2nd_world_war_came_to_an_end">2. When did 2nd World war came to an end?</string>
+    <string name="_1990">1990</string>
+    <string name="_1947">1947</string>
+    <string name="_1945">1945</string>
+    <string name="_3_two_of_the_following_countries_are_found_in_eastAfrica_which_one">3. Two of the following Countries are found in EastAfrica, which one??</string>
+    <string name="kenya">Kenya</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="tanzania">Tanzania</string>
+    <string name="_4_name_2_countries_that_are_found_in_europe">4. Name 2 Countries that are found in Europe ?</string>
+    <string name="bulgaria">Bulgaria</string>
+    <string name="burundi">Burundi</string>
+    <string name="spain">Spain</string>
+    <string name="_5_name_two_cities_found_in_the_usa">5. Name two Cities found in the USA ?</string>
+    <string name="havanna">Havanna</string>
+    <string name="miami">Miami</string>
+    <string name="newyork">NewYork</string>
+    <string name="enter_your_answer">Enter your Answer</string>
+    <string name="submitscore">submitScore</string>
+    <string name="reset">Reset</string>
+    <string name="world">THE WORLD</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="_6_name_2_top_military_powes_initially_and_half_of_world_war_2">6. Name 2 top military powes initially and half of World war 2</string>
+    <string name="nazi_germany">Nazi Germany</string>
+    <string name="cuba">Cuba</string>
+    <string name="soveit_union">Soveit Union</string>
+    <string name="name_the_president_from_southafrica_who_fought_massive_against_apatheid">Name the President from SouthAfrica who fought massive against Apatheid</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>
